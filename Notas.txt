@@ -1,0 +1,8 @@
+3 capas
+
+capa1       Capa2           capa3
+
+BD          Backend         Frontend
+
+Tablas,     
+registros
